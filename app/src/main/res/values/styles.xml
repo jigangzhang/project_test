@@ -1,0 +1,9 @@
+<resources>
+    <style name="AppTheme.ToolBar.Activity" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="colorPrimary">@android:color/holo_blue_bright</item>
+        <item name="colorPrimaryDark">@android:color/holo_blue_bright</item>
+        <item name="android:windowBackground">@android:color/darker_gray</item>
+    </style>
+</resources>
